@@ -20,15 +20,8 @@ A Streamlit-powered AI assistant that:
 
 ## 📁 Project Structure
 
-qa_voice_app/
-├── app.py
-├── .env
-├── requirements.txt
-└── modules/
-├── llm.py
-├── retriever.py
-├── voice.py
-└── prompts.py
+![image](https://github.com/user-attachments/assets/813990bd-78e6-4cc7-af71-ef924f8a48dd)
+
 
 ---
 
@@ -43,6 +36,7 @@ pip install -r requirements.txt
 ### 2. Add your API keys to .env
 
 GOOGLE_API_KEY=your_google_api_key_here
+
 TAVILY_API_KEY=your_tavily_api_key_here
 
 ### 3. Run the app:
