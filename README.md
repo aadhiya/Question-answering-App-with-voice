@@ -35,12 +35,13 @@ qa_voice_app/
 ## 🔧 Setup Instructions
 
 ### 1. Clone the repo and install requirements:
-```bash
+
 git clone https://github.com/yourusername/qa_voice_app.git
 cd qa_voice_app
 pip install -r requirements.txt
 
 ### 2. Add your API keys to .env
+
 GOOGLE_API_KEY=your_google_api_key_here
 TAVILY_API_KEY=your_tavily_api_key_here
 
@@ -69,3 +70,13 @@ Model: tts_models/en/ljspeech/tacotron2-DDC
     coqui-tts
 
     python-dotenv
+
+
+
+
+
+
+
+
+
+
